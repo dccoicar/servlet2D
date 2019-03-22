@@ -1,0 +1,32 @@
+*******************************************************************************************
+Como crear un proyecto web con maven desde eclipse
+https://myhanoli.com/2018/08/11/como-crear-un-proyecto-web-con-maven-desde-eclipse/
+*******************************************************************************************
+Crear una aplicación web java con Eclipse y Maven
+http://www.infointernet.es/internet-avanzado/java/crear-una-aplicacion-web-java-eclipse-maven/
+*******************************************************************************************
+*******************************************************************************************
+Como instalar maven en Windows
+https://myhanoli.com/2018/06/23/como-instalar-maven-en-windows/
+*******************************************************************************************
+*******************************************************************************************
+Como desplegar un proyecto web en Tomcat con Maven
+https://myhanoli.com/2018/05/01/como-de-desplegar-un-proyecto-web-en-tomcat-con-maven/
+*******************************************************************************************
+*******************************************************************************************
+Java Servlet API » 4.0.0
+https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api/4.0.0
+*******************************************************************************************
+*******************************************************************************************
+Cree un proyecto Maven con Servlet en IntelliJ IDEA 2018
+https://medium.com/@backslash112/create-maven-project-with-servlet-in-intellij-idea-2018-be0d673bd9af
+*******************************************************************************************
+*******************************************************************************************
+Diferencia entre CGI y Servlet
+http://www.differencebetween.net/technology/difference-between-cgi-and-servlet/
+*******************************************************************************************
+*******************************************************************************************
+
+
+
+RUN BUILD ne proyecto  maven  ----->  Clean package install
